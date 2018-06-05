@@ -4,7 +4,14 @@ Temos o objetivo de formar uma das melhores equipes de Front End do Brasil e tra
 
 ### Nossa stack atual:
 
-React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha, Redis, Aws, Jenkins.
+- FrontEnd
+React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha.
+
+- BackEnd
+Java 8 e 9, Groovy, spring-boot, spock, MongoDB, Postgres, Redis, Elastic Search, Redshift.
+
+- Infra
+Python, Jenkins, AWS.
 
 Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) <img src="https://i.imgur.com/S5wIPJW.png" />
 
@@ -21,7 +28,7 @@ Venha trabalhar no e-commerce mais rápido!
 - Van pega/leva para estação de trem e restaurantes da região
 
 
-**Regime de contratação: CLT** 
+**Regime de contratação: CLT**
 
 ### Vagas:
  - [Frontend developer](https://github.com/belezanaweb/frontend/wiki/Job-description:-Frontend-developer)
