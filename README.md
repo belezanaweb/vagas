@@ -1,6 +1,6 @@
 A Beleza na Web é o maior e-commerce no ramo de beleza da América Latina, nos orgulhamos em trabalhar com pensamento de startup de forma ágil, prática e rápida, visando oferecer a melhor experiência de compra e os melhores preços para todos os nossos consumidores.
 
-Temos o objetivo de formar uma das melhores equipes de TI do Brasil e trabalhar com as últimas tecnologias disponíveis. Por isso, estamos buscando desenvolvedores que se identifiquem com esta visão para fazer parte da nossa equipe de Desenvolvimento.
+Temos o objetivo de formar uma das melhores equipes de TI do Brasil e trabalhar com as últimas tecnologias disponíveis. Por isso, estamos buscando as melhores pessoas que se identifiquem com esta visão para fazer parte da nossa equipe.
 
 ### Nossa stack atual:
 
