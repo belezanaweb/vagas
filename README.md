@@ -4,13 +4,13 @@ Temos o objetivo de formar uma das melhores equipes de Front End do Brasil e tra
 
 ### Nossa stack atual:
 
-- FrontEnd
+- **FrontEnd**:
 React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha.
 
-- BackEnd
+- **BackEnd**:
 Java 8 e 9, Groovy, spring-boot, spock, MongoDB, Postgres, Redis, Elastic Search, Redshift.
 
-- Infra
+- **Infra**:
 Python, Jenkins, AWS.
 
 Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) <img src="https://i.imgur.com/S5wIPJW.png" />
