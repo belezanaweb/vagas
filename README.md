@@ -10,8 +10,21 @@ Levamos performance/otimização muito a sério. Atualmente nosso load time é d
 
 Venha trabalhar no e-commerce mais rápido!
 
-### Vagas
+### Benefícios:
+- Estacionamento grátis
+- Dress code casual
+- Plano de saúde
+- Seguro de vida
+- Vale refeição
+- Vale transporte
+- Day off no aniversário
+- Van pega/leva para estação de trem e restaurantes da região
+
+
+**Regime de contratação: CLT** 
+
+### Vagas:
  - [Frontend developer](https://github.com/belezanaweb/frontend/wiki/Job-description:-Frontend-developer)
 
-### Desafios
+### Desafios:
  - [Frontend developer](https://github.com/belezanaweb/test-front/wiki/Challenge:-Frontend)
