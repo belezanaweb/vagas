@@ -6,7 +6,7 @@ Temos o objetivo de formar uma das melhores equipes de Front End do Brasil e tra
 
 React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha, Redis, Aws, Jenkins.
 
-Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) https://i.imgur.com/S5wIPJW.png
+Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) <img src="https://i.imgur.com/S5wIPJW.png" />
 
 Venha trabalhar no e-commerce mais rápido!
 
