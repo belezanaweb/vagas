@@ -1,39 +1,17 @@
-# Teste de Front-end
+A Beleza na Web é o maior e-commerce no ramo de beleza da América Latina, nos orgulhamos em trabalhar com pensamento de startup de forma ágil, prática e rápida, visando oferecer a melhor experiência de compra e os melhores preços para todos os nossos consumidores.
 
-O teste consiste em um checkout simples contendo 3 passos (carrinho, pagamento e sucesso) [Veja o Layout](https://projects.invisionapp.com/prototype/font-test-cji0j0khf005c1t0132358e8k)
+Temos o objetivo de formar uma das melhores equipes de Front End do Brasil e trabalhar com as últimas tecnologias disponíveis. Por isso, estamos buscando desenvolvedores que se identifiquem com esta visão para fazer parte da nossa equipe de Desenvolvimento.
 
-### Requerimentos
+### Nossa stack atual:
 
-- Pixel perfect ([nesse link](https://projects.invisionapp.com/prototype/font-test-cji0j0khf005c1t0132358e8k), você pode inspecionar para ver espaçamentos, fonte, tamanho, etc)
-- A aplicação precisa ser responsiva, utilizando o conceito de mobile-first. Use sua imaginação para entregar uma experiência boa no desktop.
-- Renderize cada passo em uma URL única (lib de rotas).
-- Utilize ReactJS
+React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha, Redis, Aws, Jenkins.
 
+Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) https://i.imgur.com/S5wIPJW.png
 
-### Passo 1 - Carrinho:
-  - Consuma o [esse endpoint](http://www.mocky.io/v2/5b15c4923100004a006f3c07) e liste os itens do carrinho, bem como o resumo do carrinho;
-  - Persista o conteúdo do JSON para ser usado nas próximas etapas (store do redux é nossa sugestão);
+Venha trabalhar no e-commerce mais rápido!
 
-### Passo 2 - Pagamento: 
-  - Exiba um form com campos de cartão de crédito com validação em cada campo;
-  - Habilite o botão de Finalizar Pedido apenas se o form esteja válido;
+### Vagas
+ - [Frontend developer](https://github.com/belezanaweb/frontend/wiki/Job-description:-Frontend-developer)
 
-### Passo 3 - Sucesso: 
-  - Todo o conteúdo deverá ser exibido a partir dos dados persistidos;
-  
-### O que vamos avaliar:
-  - Organização do código;
-  - Mensagens (em inglês) e mudanças nos commits;
-  - Composição/reutilização de componentes;
-  - Testes unitários;
-  - O motivo de ter escolhido cada tech da stack;
-  - Como rodar sua aplicação ;)
-
-### Diferenciais:
-  - Split bundle por rota (cada step ter um bundle separado para otimizar a performance);
-  - CSS in JS;
-  - Redux;
-
-### Fim:
-Ao finalizar o teste, submeta um pull request para o repositório que nosso time será notificado. Se tiver alguma observação, escreva no pull request.
-
+### Desafios
+ - [Frontend developer](https://github.com/belezanaweb/test-front/wiki/Challenge:-Frontend)
