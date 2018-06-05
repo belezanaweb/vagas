@@ -28,3 +28,4 @@ Venha trabalhar no e-commerce mais rápido!
 
 ### Desafios:
  - [Frontend developer](https://github.com/belezanaweb/test-front/wiki/Challenge:-Frontend)
+ - [Java developer](https://github.com/belezanaweb/test-java)
