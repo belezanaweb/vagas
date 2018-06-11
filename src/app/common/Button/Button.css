@@ -1,0 +1,16 @@
+.text-button {
+    background-color: #FF6808;
+    border-width: 0;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.4),
+        inset 0px -3px 0px #D45705;
+    color: white;
+    font-size: 21px;
+    font-weight: 500;
+    margin-top: 20px;
+    padding: 17px;
+    width: 100%;
+}
+
+.text-button:active {
+    background-color: #D45705;
+}
