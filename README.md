@@ -9,7 +9,7 @@ $ yarn
 $ yarn start
 ```
 
-A new tab should open on your prefered browser showing the cart page.
+A new tab should open on your preferred browser showing the cart page.
 
 # Dependencies
 This are the NPM packages required:
