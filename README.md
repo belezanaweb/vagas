@@ -25,4 +25,4 @@ This are the NPM packages required:
 * `react-scripts` - Includes scripts and configuration used by `create-react-app`
 
 # License
-(MIT)[./LICENSE]
+[MIT](./LICENSE)
