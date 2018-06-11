@@ -1,0 +1,34 @@
+.products-item-container {
+    border: 1px #EEE solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 10px;
+}
+
+.products-item-photo {
+    display: flex;
+    height: 100%;
+}
+
+.products-item-image {
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: 110%;
+    height: 100%;
+    margin: auto;
+}
+
+.products-item-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+    justify-content: space-between;
+    padding-left: 15px;
+}
+
+.products-item-price {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+}

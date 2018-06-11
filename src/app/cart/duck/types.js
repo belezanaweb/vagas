@@ -1,0 +1,7 @@
+const REQUEST_CART = "REQUEST_CART";
+const RECIEVE_CART = "RECIEVE_CART";
+
+export default {
+    REQUEST_CART,
+    RECIEVE_CART
+};

@@ -1,0 +1,26 @@
+.text-input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 23px;
+}
+
+.text-input-label {
+    color: #CCC;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.text-input {
+    box-shadow: inset 0px 0px 4px rgba(0,0,0,0.2);
+    border-width: 0;
+    padding: 10px;
+    height: 25px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    flex-grow: 1;
+}
+
+.text-input::placeholder {
+    color: #DFE6EC;
+}

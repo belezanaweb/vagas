@@ -1,0 +1,16 @@
+.half-width-inputs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.half-width-inputs > .text-input-container:first-child {
+    width: 50%;
+}
+
+.half-width-inputs > .text-input-container:nth-child(2) {
+    width: 44%;
+}
+
+.credit-card-form {
+    padding-bottom: 2px;
+}
