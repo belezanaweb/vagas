@@ -1,0 +1,27 @@
+.summary-container {
+    border: 1px #CBCBCB solid;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding: 14px;
+    padding-bottom: 12px;
+}
+
+.summary-field {
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+}
+
+.summary-info {
+    margin-bottom: 10px;
+}
+
+.summary-discount {
+    color: #FF6808;
+}
+
+.summary-total {
+    font-weight: bold;
+    margin-top: 6px;
+}
