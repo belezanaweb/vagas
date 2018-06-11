@@ -1,0 +1,14 @@
+.success-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.success-icon {
+    margin: 10px auto;
+}
+
+.success-message {
+    color: #FF6808;
+    margin: 1px auto 10px;
+    font-weight: 500;
+}
