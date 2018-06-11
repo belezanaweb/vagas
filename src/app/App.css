@@ -1,0 +1,10 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+html, body, #root, .app {
+    background-color: #EEE;
+    font-size: 13px;
+    height: 100%;
+    margin: 0;
+}
