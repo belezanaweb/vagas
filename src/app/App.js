@@ -6,8 +6,9 @@ import {
 
 import "./App.css";
 import Navbar from "./navbar/NavbarComponent";
-
-const Dummy = () => (<p>Page!</p>);
+import Cart from "./cart/CartContainer";
+import Payment from "./payment/PaymentContainer";
+import Confirmation from "./confirmation/ConfirmationContainer";
 
 class App extends Component {
 
@@ -16,19 +17,19 @@ class App extends Component {
         const routes = [
             {
                 path: "/",
-                component: Dummy,
+                component: Cart,
                 label: "home"
             }, {
                 path: "/cart",
-                component: Dummy,
+                component: Cart,
                 label: "sacola"
             }, {
                 path: "/payment",
-                component: Dummy,
+                component: Payment,
                 label: "pagamento"
             }, {
                 path: "/confirmation",
-                component: Dummy,
+                component: Confirmation,
                 label: "confirmação"
             }
         ];

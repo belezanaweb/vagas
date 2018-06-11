@@ -1,9 +1,11 @@
 import { combineReducers } from "redux";
 
-const dummy = (state = {}, action) => state;import cartReducer from "./app/cart/duck";
+import cartReducer from "./app/cart/duck";
+import paymentReducer from "./app/payment/duck";
 
 const rootReducer = combineReducers({
-    dummy
+    cart: cartReducer,
+    payment: paymentReducer
 });
 
 export default rootReducer;
