@@ -38,5 +38,5 @@ Venha trabalhar no e-commerce mais rápido!
 
 ### Localização: 
 
-** Av Jaguaré, 818, Jaguaré
-** https://goo.gl/maps/2jU8ud1ciZU2
+- Av Jaguaré, 818, Jaguaré
+- https://goo.gl/maps/2jU8ud1ciZU2
