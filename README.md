@@ -38,5 +38,5 @@ Venha trabalhar no e-commerce mais rápido!
 
 ### Localização: 
 
-- Av Jaguaré, 818, Jaguaré
+- Av Jaguaré, 818, Jaguaré - São Paulo (próximo à estação de trem Villa Lobos)
 - https://goo.gl/maps/2jU8ud1ciZU2
