@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_svg,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.2/images/store/1/logo.svg" width="140">
+<img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_png,fl_progressive,q_auto:eco/w_300,h_300,c_lpad,b_white/v1/blz/assets-store/0.0.5/images/store/1/logo.svg" width="140">
 
 A Beleza na Web é o maior e-commerce no ramo de beleza da América Latina, nos orgulhamos em trabalhar com pensamento de startup de forma ágil, prática e rápida, visando oferecer a melhor experiência de compra e os melhores preços para todos os nossos consumidores.
 
