@@ -27,7 +27,7 @@ Venha trabalhar no e-commerce mais rápido!
 - Vale refeição
 - Vale transporte
 - Day off no aniversário
-- Van pega/leva para estação de trem e restaurantes da região
+- Transporte Fretado entre a estação Villa Lobos x Empresa e restaurantes da região
 
 
 **Regime de contratação: CLT**
