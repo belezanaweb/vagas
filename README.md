@@ -35,6 +35,7 @@ Venha trabalhar no e-commerce mais rápido!
 ### Vagas:
  - [Frontend developer](https://github.com/belezanaweb/frontend/wiki/Job-description:-Frontend-developer) 
  - [Java developer](https://github.com/belezanaweb/test-java)
+ - [Mobile developer](https://github.com/belezanaweb/vagas/wiki/Mobile-developer)
 
 ### Localização: 
 
