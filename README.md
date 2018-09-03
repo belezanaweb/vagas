@@ -33,7 +33,7 @@ Venha trabalhar no e-commerce mais rápido!
 **Regime de contratação: CLT**
 
 ### Vagas:
- - [Frontend developer](https://github.com/belezanaweb/test-front/blob/master/README.md) 
+ - [Frontend developer](https://github.com/belezanaweb/vagas/wiki/Frontend-developer) 
  - [Java developer](https://github.com/belezanaweb/test-java)
  - [Mobile developer](https://github.com/belezanaweb/vagas/wiki/Mobile-developer)
 
