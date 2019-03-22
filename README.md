@@ -22,12 +22,13 @@ Venha trabalhar no e-commerce mais rápido!
 ### Benefícios:
 - Estacionamento grátis
 - Dress code casual
-- Plano de saúde
+- Plano de saúde / odontológico
 - Seguro de vida
 - Vale refeição
 - Vale transporte
 - Day off no aniversário
 - Transporte Fretado entre a estação Villa Lobos x Empresa e restaurantes da região
+- Gympass
 
 
 **Regime de contratação: CLT**
