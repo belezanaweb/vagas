@@ -10,36 +10,37 @@ Temos o objetivo de formar uma das melhores equipes de TI do Brasil e trabalhar 
 React, React Native, Redux, Styled Components, AngularJS, NodeJS, Nunjucks, Jest/Enzyme/Jasmine/Karma/Mocha.
 
 - **BackEnd**:
-Java 8 e 9, Groovy, spring-boot, spock, MongoDB, Postgres, Redis, Elastic Search, Redshift.
+Java 8, 11 e 14, Groovy/Kotlin, spring-boot, spock, MongoDB, Postgres, Redis, Elastic Search, Redshift, RabbitMQ.
 
 - **Infra**:
-Python, Jenkins, AWS.
+Python, Ansible, Jenkins, AWS.
 
 Levamos performance/otimização muito a sério. Atualmente nosso load time é de 0.6s (600 milissegundos) https://i.imgur.com/S5wIPJW.png
 
 Venha trabalhar no e-commerce mais rápido!
 
 ### Benefícios:
-- Estacionamento grátis
+- Estacionamento
 - Dress code casual
 - Plano de saúde / odontológico
 - Seguro de vida
 - Vale refeição
+- Vale alimentação
 - Vale transporte
 - Day off no aniversário
-- Transporte Fretado entre a estação Villa Lobos x Empresa e restaurantes da região
-- Gympass
+- Home Office
 
 
 **Regime de contratação: CLT**
 
 ### Vagas:
- - [Frontend developer](https://github.com/belezanaweb/vagas/wiki/Frontend-developer) 
+ - [Frontend developer](https://github.com/belezanaweb/vagas/wiki/Frontend-developer)
  - [Java developer](https://github.com/belezanaweb/test-java)
  - [C# developer](https://github.com/belezanaweb/test-c)
+ - [NodeJS developer](https://github.com/belezanaweb/test-nodejs)
  - [Mobile developer](https://github.com/belezanaweb/vagas/wiki/Mobile-developer)
 
-### Localização: 
+### Localização:
 
 - Av Jaguaré, 818, Jaguaré - São Paulo (próximo à estação de trem Villa Lobos)
 - https://goo.gl/maps/2jU8ud1ciZU2
